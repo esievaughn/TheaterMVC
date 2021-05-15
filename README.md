@@ -6,6 +6,7 @@ For the C# Live Project, I worked a one week sprint on scrum team developing a w
 
 #### Story #1: Style Contact Page
 Tasked with stylizing the website's main Contact page based on UI/UX standards already set for the project. 
+
 -[CONTACT PAGE: UI/UX standards](https://github.com/esievaughn/TheaterMVC/blob/main/CSharp-MVC/contactPg.png)
 
 ![](https://github.com/esievaughn/TheaterMVC/blob/main/CSharp-MVC/csscontactpage.png)
