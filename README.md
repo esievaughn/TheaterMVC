@@ -3,11 +3,12 @@
 #### OVERVIEW
 For the C# Live Project, I worked a one week sprint on scrum team developing a web application utilizing ASP.NET Entity Framework for a Theater in Portland. The team worked through Azure following scrum/agile methodologies, and used slack and google meet for communication. I worked on building the Rental History section of the website with CRUD functionality. 
 
-![](https://github.com/esievaughn/Python-Live-Project/blob/main/GardenApp%20Images/home.png)
-
 
 #### Story #1: Style Contact Page
 Tasked with stylizing the website's main Contact page based on UI/UX standards already set for the project. 
+
+![](https://github.com/esievaughn/TheaterMVC/blob/main/CSharp-MVC/csscontactpage.png)
+
 
 
 #### Story #2: Create entity model for Rental History and CRUD pages
