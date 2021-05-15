@@ -28,9 +28,11 @@ The next story focused on styling the Create and Edit pages with given parameter
 
 - [CREATE PAGE](https://github.com/esievaughn/TheaterMVC/blob/main/CSharp-MVC/createCrud.png)
 - [EDIT PAGE](https://github.com/esievaughn/TheaterMVC/blob/main/CSharp-MVC/editCrud.png)
+
 ![](https://github.com/esievaughn/TheaterMVC/blob/main/CSharp-MVC/stylingcrud.gif)
 
 #### Story #4: Rental History Index Page
 Styled the index page to show all of the Rental Histories in tabular form. If a Rental is damaged, added a red X on the left side of that cell. And if the Rental is not damaged, added a be a green checkmark. Under a Razor foreach statement, I implemented a Razor if statement with the red X and greencheckmark to properly display the image based on what the user saved for rental damaged. After the X or checkmark symbol, the name of the Rental is displayed and styled so the text so that is distinguished from the other text in the cell using a Bootstrap badge.After the Rental name, Damages Incurred text is displayed.  If the Rental is not damaged, the text is greyed out, set to no wrap with an ellipses to cut off the text. To gray out the text for the Rentals that are not damaged, I utilized anoter Razor if statement based on the Rental Damaged property. Finally, when hovering over a cell, a vertical ellipsis appears with a dropdown menu containing the Edit, Details, Delete links. I utilized CSS to hide the ellipsis button until hovered over, and javascript for the dropdown funcationality. I then added CSS icons next to the Edit, Details, and Delete links.
 - [INDEX PAGE](https://github.com/esievaughn/TheaterMVC/blob/main/CSharp-MVC/indexCrud.png)
+
 ![](https://github.com/esievaughn/TheaterMVC/blob/main/CSharp-MVC/indexpage.png)
