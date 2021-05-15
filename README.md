@@ -17,8 +17,8 @@ Tasked with stylizing the website's main Contact page based on UI/UX standards a
 
 I created a model based on the schema given which mapped to to a new database, giving the RentalHistoryID the "ID" thereby assiging it as the primary key. Using code first, I created the database. I then scaffoled a RentalHistory controller and CRUD pages for the RentalHistory model. This created Index, Create, Details, Delete and Edit pages. Then tested the CRUD functionality ensuring users could navigate to each page by typing in the address of the page in the URL, and that that RentalHistory could be created, edited, and deleted successfully.
 
-- [](https://github.com/esievaughn/TheaterMVC/blob/main/CSharp-MVC/models.png)
-- [] (https://github.com/esievaughn/TheaterMVC/blob/main/CSharp-MVC/rentalhistoryModel.png)
+![](https://github.com/esievaughn/TheaterMVC/blob/main/CSharp-MVC/models.png)
+![] (https://github.com/esievaughn/TheaterMVC/blob/main/CSharp-MVC/rentalhistoryModel.png)
 
 
 
