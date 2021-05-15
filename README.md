@@ -7,7 +7,7 @@ For the C# Live Project, I worked a one week sprint on scrum team developing a w
 #### Story #1: Style Contact Page
 Tasked with stylizing the website's main Contact page based on UI/UX standards already set for the project. 
 
--[CONTACT PAGE: UI/UX standards](https://github.com/esievaughn/TheaterMVC/blob/main/CSharp-MVC/contactPg.png)
+- [CONTACT PAGE: UI/UX standards](https://github.com/esievaughn/TheaterMVC/blob/main/CSharp-MVC/contactPg.png)
 
 ![](https://github.com/esievaughn/TheaterMVC/blob/main/CSharp-MVC/csscontactpage.png)
 
@@ -17,9 +17,8 @@ Tasked with stylizing the website's main Contact page based on UI/UX standards a
 
 I created a model based on the schema given which mapped to to a new database, giving the RentalHistoryID the "ID" thereby assiging it as the primary key. Using code first, I created the database. I then scaffoled a RentalHistory controller and CRUD pages for the RentalHistory model. This created Index, Create, Details, Delete and Edit pages. Then tested the CRUD functionality ensuring users could navigate to each page by typing in the address of the page in the URL, and that that RentalHistory could be created, edited, and deleted successfully.
 
-- [MODEL: table](https://github.com/esievaughn/Python-Live-Project/blob/main/GardenApp%20Code%20Snippets/GardenApp_models.png)
-
-- [MODEL: code](https://github.com/esievaughn/Python-Live-Project/blob/main/GardenApp%20Code%20Snippets/GardenApp_forms.png)
+- [](https://github.com/esievaughn/TheaterMVC/blob/main/CSharp-MVC/models.png)
+- [] (https://github.com/esievaughn/TheaterMVC/blob/main/CSharp-MVC/rentalhistoryModel.png)
 
 
 
