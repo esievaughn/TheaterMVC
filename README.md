@@ -1,7 +1,7 @@
 # TheaterMVC
 
 #### OVERVIEW
-For the C# Live Project, I worked on scrum team developing a web application utilizing ASP.NET Entity Framework for a Theater in Portland. The team worked through Azure following scrum/agile methodologies, and used slack and google meet for communication. I worked on building the Rental History section of the website with CRUD functionality. 
+I worked on scrum team developing a web application utilizing C# ASP.NET Entity Framework for a Theater in Portland. The team worked through Azure following scrum/agile methodologies, and used slack and google meet for communication. I worked on building the Rental History section of the website with CRUD functionality. 
 
 
 #### Story #1: Style Contact Page
